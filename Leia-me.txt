@@ -1,0 +1,29 @@
+SISTEMA DE CADASTRO DE USUÁRIOS
+
+Descrição:
+Este projeto consiste em um sistema de cadastro de usuários simples, desenvolvido com foco principal na lógica de programação e no funcionamento do sistema (back-end conceitual), e não no design visual.
+
+O objetivo do projeto é praticar conceitos fundamentais do desenvolvimento de software, como validações, manipulação de dados, regras de negócio e persistência de informações.
+
+Funcionalidades:
+- Cadastro de usuários com nome, email, idade e senha
+- Validação para impedir cadastro com email duplicado
+- Exibição de mensagem de erro quando o email já foi utilizado
+- Listagem dinâmica dos usuários cadastrados
+- Remoção de usuários
+- Armazenamento dos dados utilizando LocalStorage
+
+Tecnologias utilizadas:
+- JavaScript (lógica principal do sistema)
+- HTML (estrutura básica)
+- CSS (estilização simples)
+- LocalStorage (simulação de persistência de dados)
+
+Observações:
+O projeto possui front-end simples, pois o foco está no funcionamento interno do sistema, especialmente na validação de dados e na lógica de cadastro, simulando comportamentos comuns de aplicações back-end.
+
+Objetivo do projeto:
+Projeto desenvolvido para fins de estudo e prática, com o objetivo de fortalecer conhecimentos em lógica de programação, manipulação do DOM e regras básicas de sistemas de cadastro.
+
+Autor:
+Victor Aguiar
